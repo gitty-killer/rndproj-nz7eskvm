@@ -1,6 +1,6 @@
 {
-  ""name"": ""rndproj-nz7eskvm"",
-  ""goal"": ""dataset sampler for audit trails"",
-  ""language"": ""python"",
-  ""template"": ""python-cli""
+    "name":  "rndproj-nz7eskvm",
+    "goal":  "dataset sampler for audit trails",
+    "language":  "python",
+    "template":  "python-cli"
 }
