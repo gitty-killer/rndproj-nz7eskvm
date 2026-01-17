@@ -1,4 +1,2 @@
-# rndproj-nz7eskvm
-
-Random rust project for tools.
-
+# rndproj-nz7eskvm\n\nSmall log summarizer tool.\n
+New-FileDef
